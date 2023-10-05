@@ -9,3 +9,5 @@ User needs to guess the states in the US
 if the user quits the game, the states that have not been guessed are saved into states_to_learn.csv
 This helps the user learn better
 
+
+![image](https://github.com/sammy-9930/US-states-game/assets/80445152/97cd2d88-f856-4898-a4ca-647f3ad04199)
